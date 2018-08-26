@@ -6,7 +6,7 @@ def fizzbuzz(int)
     "Fizz"
   elsif int % 5 == 0 
     "Buzz"
-  elsif int % 15 = 0 
+  elsif int % 15 == 0 
     "Fizzbuzz"
   else 
     "This is not divisible by 3, 5, or 15"
