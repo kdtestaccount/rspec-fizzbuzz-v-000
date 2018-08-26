@@ -9,6 +9,6 @@ def fizzbuzz(int)
   elsif int % 15 == 0 
     "FizzBuzz"
   else 
-    "This is not divisible by 3, 5, or 15"
+    nil
   end
 end
